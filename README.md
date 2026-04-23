@@ -1,1 +1,1 @@
-# algorithm-study
+알고리즘 이해 대학 공부 정리
